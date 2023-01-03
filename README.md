@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santiagovahos
+- 👋 Hi, I’m @santiagovahos
 - 👀 I’m interested in data, music, movies and basketball
 - 🌱 I’m currently learning Data Scientist
 - 💞️ I’m looking to collaborate on some cool projects and learn a lot 
