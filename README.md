@@ -14,6 +14,7 @@
             alt="Twitter Badge" />
     </a>
 </div>
+
 ---
 
 ### 👨‍💻 About Me :
@@ -21,6 +22,8 @@
 - 👀 I'm passionate about data, basketball, music, and movies. I'm always looking to expand my knowledge and skills. If you're interested in the same topics, let's connect!
 - 🌱 Currently, I am honing my skills while learning Power BI and cloud computing
 - 📫 How to reach me **santiagovahos@outlook.com**
+
+---
 
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
