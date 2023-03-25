@@ -30,6 +30,7 @@
     <div>
          <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
          <img src="https://img.icons8.com/color/48/null/microsoft-excel-2019--v1.png" title="Excel" **alt="Excel" width="40" height="40"/>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="Power BI" **alt="Power BI" width="40" height="40"/>
          <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
          <img 
 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
